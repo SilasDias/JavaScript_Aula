@@ -1,9 +1,43 @@
+var data = new Date();
+alert(data.getDay());
+alert(data.getHours());
+alert(data.getMinutes());
+alert(data.getMonth()+1);
+
+
+
+/*var count;
+for(count=1; count <= 5; count++) {
+    console.log(count);
+    alert(count);
+}*/
+
+
+
+/*var count = 1;
+while(count <= 5) {
+    console.log(count);
+    alert(count);
+    count ++;
+}*/
+
+
 /*var nome = "Silas Dias";
 alert("Bem Vindo " + nome);*/
 
-var frutas = [{nome:"Maça", cor:"Vermelho"}, {nome:"Uva", cor:"Roxa"}]
+/*var idade = prompt("Qual a sua idade?");
+//var idade = 18;
+if (idade >= 18) {
+    alert("Maior de Idade!");
+}
+else {
+    alert("Menor de Idade!");
+}*/
+
+
+/*var frutas = [{nome:"Maça", cor:"Vermelho"}, {nome:"Uva", cor:"Roxa"}]
 console.log(frutas);
-alert(frutas[1].nome);
+alert(frutas[1].nome); */
 
 //var fruta = {nome:"Maça", cor:"Vermelho"}
 //console.log(fruta.nome);
