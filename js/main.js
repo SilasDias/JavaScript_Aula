@@ -1,9 +1,15 @@
-var data = new Date();
+function soma(n1, n2) {
+    return n1 + n2;
+}
+alert(soma(5,10));
+
+
+/*var data = new Date();
 alert(data.getDay());
 alert(data.getHours());
 alert(data.getMinutes());
 alert(data.getMonth()+1);
-
+*/
 
 
 /*var count;
