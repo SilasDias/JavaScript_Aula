@@ -17,6 +17,10 @@ var idade = prompt("Qual sua idade?");
 validarIdade(idade);
 console.log(validar);
 
+function () {
+    
+}
+
 /*var data = new Date();
 alert(data.getDay());
 alert(data.getHours());
